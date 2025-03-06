@@ -1,8 +1,13 @@
-Introduction
--YSO science and classes
--useful bands 
--Sed and spectroscopy
-LLST and Data sets
-Results
-Conclusion
-Cross-sectional skills
+"cell_type": "markdown",
+  "metadata": {},
+   "source": [
+    "Introduction"\n"-YSO science and classes"\n"-useful bands"\n""-Sed and spectroscopy"\n"LLST and Data sets"\n"Results"\n"Conclusion"\n"Cross-sectional skills
+    "\n",
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
