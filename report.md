@@ -52,5 +52,4 @@ In this study, we will analyze the light curves of several YSOs to detect accret
 ## Conclusion
 YSOs are important objects for studying star formation, and accretion bursts play a key role in their evolution. By analyzing light curves and SEDs, we can gain insights into the physical processes occurring in these objects.  
 
-## Cross-sectional skills
-The ability to analyze time-series data (light curves), process spectral data, and apply machine learning models to identify accretion bursts are essential skills in modern astronomy. By mastering these techniques, astronomers can improve our understanding of the dynamic processes occurring in young stellar objects.  
+## Cross-sectional skills  
